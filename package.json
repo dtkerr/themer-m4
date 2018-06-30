@@ -1,6 +1,6 @@
 {
   "name": "themer-m4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "themer template for an m4 macro set",
   "main": "src/index.js",
   "repository": "https://github.com/dtkerr/themer-m4",

@@ -1,0 +1,21 @@
+{
+  "name": "themer-m4",
+  "version": "1.0.0",
+  "description": "themer template for an m4 macro set",
+  "main": "src/index.js",
+  "repository": "https://github.com/dtkerr/themer-m4",
+  "author": "Terry Kerr",
+  "license": "MPL-2.0",
+  "private": false,
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1"
+  },
+  "keywords": [
+    "colorscheme",
+    "themer",
+    "theme"
+  ]
+}

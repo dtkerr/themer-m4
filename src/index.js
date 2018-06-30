@@ -7,6 +7,7 @@ exports.render = (colors) => {
     .reduce((x, y) => x + '\n' + y);
   const theme = unindent(`
 	divert(-1)dnl
+	changecom(ignorecomments, ignorecomments)
 	define(ACCENT0, \`${c.accent0}')
 	define(ACCENT1, \`${c.accent1}')
 	define(ACCENT2, \`${c.accent2}')
